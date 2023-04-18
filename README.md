@@ -1,7 +1,7 @@
 # TensorFlow Chatbot
 
 ## <h2><b>Overview</b></h2>
-<description of your chatbot>
+This is a simple text-based chatbot implemented in TensorFlow with Python. The chatbot uses a deep learning model to generate responses based on input text.
 
 ## <h2><b>Features</b></h2>
 - <feature 1>
