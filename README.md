@@ -1,5 +1,4 @@
 # TensorFlow Chatbot
-<h1><b>TensorFlow Chatbot</b></h1>
 
 ## <h2><b>Overview</b></h2>
 <description of your chatbot>
@@ -22,5 +21,5 @@
 <license information for your chatbot>
 
 ## <h2><b>Contact</b></h2>
-<contact information for the maintainer of the chatbot>
+<If you have any questions or need further assistance, feel free to contact me at sadaf0ravari@gmail.com.>
 
