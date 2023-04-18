@@ -18,7 +18,7 @@ This is a simple text-based chatbot implemented in TensorFlow with Python. The c
 Clone the repository:
 ``` bash
 git clone https://github.com/yourusername/tensorflow-chatbot.git
-    
+```    
 
 
 ## <h2><b>Contributing</b></h2>
