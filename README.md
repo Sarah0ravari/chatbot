@@ -5,20 +5,20 @@ This is a simple text-based chatbot implemented in TensorFlow with Python. The c
 
 ## <h2><b>Features</b></h2>
 - Uses a deep learning model for text generation
-- <Trained on a dataset of text conversations>
-- <Generates responses based on input text>
-- <Easy to set up and run>
-- <Customizable model parameters>
-- <Supports both training and inference modes>
+- Trained on a dataset of text conversations
+- Generates responses based on input text
+- Easy to set up and run
+- Customizable model parameters
+- Supports both training and inference modes
 
 ## <h2><b>Usage</b></h2>
 <instructions on how to use your chatbot>
 
 ## <h2><b>Installation</b></h2>
 Clone the repository:
-    ``` bash
-    git clone https://github.com/yourusername/tensorflow-chatbot.git
-    ```
+``` bash
+git clone https://github.com/yourusername/tensorflow-chatbot.git
+    
 
 
 ## <h2><b>Contributing</b></h2>
